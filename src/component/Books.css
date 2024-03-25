@@ -1,0 +1,9 @@
+.bookParent{
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.search{
+    display: flex;
+    justify-content: end;
+}
